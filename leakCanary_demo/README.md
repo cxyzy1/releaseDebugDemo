@@ -1,0 +1,1 @@
+Debug版本会集成LeakCanary，Release版本不集成。
